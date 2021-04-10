@@ -6,6 +6,8 @@
 
 ### [React Apollo Client](https://www.apollographql.com/docs/react/get-started/)
 
+### [Django Cors Headers](https://pypi.org/project/django-cors-headers/)
+
 ## Fetching Data
 
 #### index.js
