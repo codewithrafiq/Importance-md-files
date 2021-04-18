@@ -24,3 +24,4 @@ class PostAdmin(admin.ModelAdmin):
     list_display = ('id','title','date','showimage')
 admin.site.register(Post,PostAdmin)
 ```
+<img src="./Screenshot_5.png" />
