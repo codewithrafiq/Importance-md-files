@@ -99,6 +99,7 @@ git pull
 >## See all Branch
 ```
 git branch
+git branch -r
 ```
 >## Create a new branch
 ```
